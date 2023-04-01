@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Pysics
 - 🌱 I’m currently learning Padang State University
 - 📫 How to reach me 
-- email : ultimea777@student.unp.ac.id
+- email : ultimea777@gmail.com
 
 <!---
 ultimea/ultimea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
